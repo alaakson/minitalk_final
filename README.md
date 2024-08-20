@@ -1,4 +1,7 @@
-# # Project instructions
+# Project instructions:
+The purpose of this project is to code a small data exchange program
+using UNIX signals.
+
 • Name your executable files client and server.
 
 # Make it run:
