@@ -11,4 +11,4 @@ Type make in folder
 
 ./server to get PID
 
-./client (the PID) and message in quotationsmarks "Insert text here"
+./client (the PID) and message in quotation marks "Insert text here"
